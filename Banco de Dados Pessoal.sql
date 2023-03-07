@@ -43,7 +43,7 @@ INSERT INTO Lupulo values
 
 INSERT INTO Lupulo VALUES
 	(null, 'amarillo', 15),
-    (null, 'mosaic', 14);
+        (null, 'mosaic', 14);
 
 SELECT * FROM Lupulo;
 
